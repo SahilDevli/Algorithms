@@ -1,6 +1,11 @@
-Dynamic Programming: A greedy algorithm is a problem-solving approach that makes 
-        the optimal choice at each step with the hope that these local optimal solutions
-        will lead to a globally optimal solution for the problem.
+Dynamic Programming: Dynamic Programming (DP) is an optimization technique used to solve problems by breaking them into overlapping subproblems and solving each subproblem only once, storing the results for future use to avoid redundant computations.
+
+
+Approaches to DP:
+
+1. Top-down (Memoization): Solve the problem recursively and store the results of subproblems in a cache.
+2. Bottom-up (Tabulation): Solve smaller subproblems first and use their results to build up solutions for larger problems iteratively.
+
 
 If you are strugling with this concept, trust me mate this is easy if you follow this path/sequence of problems.
 
